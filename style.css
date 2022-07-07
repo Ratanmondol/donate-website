@@ -69,9 +69,23 @@ section {
 .donate-button {
     text-align: center;
 
+
 }
 
 .underline {
     text-decoration: underline;
     text
+}
+
+.donate-plan {
+    text-align: center;
+
+}
+
+.food-family {
+
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
 }
